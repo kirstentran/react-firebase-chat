@@ -1,7 +1,10 @@
-const = () => {
+import "./Chat.css"
+
+const Chat = () => {
 return (
-<div className ='' ><div>
+<div className ='chat'>Chat</div>
 )
+
 }
 
-export default
+export default Chat
